@@ -7,3 +7,6 @@
 *.sln
 *.db-wal
 *.vsidx
+/Chapter11/Chapter11/x64
+/Chapter11/.vs
+/Chapter11/x64
