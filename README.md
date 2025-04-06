@@ -51,7 +51,7 @@ README.md
 질문 
 ```
 
-[![힛이건내거](https://github.com/user-attachments/assets/03bb568e-0057-4157-95ea-440c2e9603c4)](https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000007565605)
+[![힛이건내거](https://github.com/user-attachments/assets/03bb568e-0057-4157-95ea-440c2e9603c4)](https://product.kyobobook.co.kr/detail/S000213087020)
   
 - [ ] 1주차(3월 31일 시작 / 4월 5일 23:59분 까지 과제제출) : DFS
 - [ ] 2주차(4월 7일 시작  / 4월 12일 23:59분 까지 과제제출) : BFS(특강 수요 조사)
