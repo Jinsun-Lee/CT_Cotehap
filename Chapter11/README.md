@@ -56,3 +56,7 @@ dfs(인접한노드)가 종료되면, dfs(1)이 종료되기 때문에 스택의
 ---
 
 ### 풀어볼 문제 https://github.com/Jinsun-Lee/CT_Cotehap/issues/6
+- [몸풀기 36번](https://github.com/Jinsun-Lee/CT_Cotehap/blob/master/Chapter11/36.cpp)
+- [네트워크](https://github.com/Jinsun-Lee/CT_Cotehap/blob/master/Chapter11/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC.cpp)
+- [양과 늑대](https://github.com/Jinsun-Lee/CT_Cotehap/blob/master/Chapter11/%EC%96%91%EA%B3%BC%20%EB%8A%91%EB%8C%80.cpp)
+- []()
