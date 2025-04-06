@@ -1,4 +1,4 @@
-#include <iostream>
+ï»¿#include <iostream>
 #include <vector>
 #include <stack>
 using namespace std;
@@ -29,7 +29,7 @@ int solution(int n, vector<vector<int>> computers) {
 	nodeList = vector<vector<int>>(n);
 	visited = vector<bool>(n, false);
 
-	// ¸®½ºÆ® ±¸¼º
+	// ë¦¬ìŠ¤íŠ¸ êµ¬ì„±
 	for (int i = 0; i < n; i++) {
 		for (int j = 0; j < n; j++) {
 
@@ -58,7 +58,7 @@ int main() {
 	while (tCase--) {
 		int n; cin >> n;
 
-		// ÀÔ·Â ¹Þ±â
+		// ìž…ë ¥ ë°›ê¸°
 		vector<vector<int>> computers(n, vector<int>(n));
 		for (int i = 0; i < n; i++) {
 			for (int j = 0; j < n; j++) {
